@@ -1,2 +1,2 @@
-# TAREA 9
+# EJERCICIO
 Desarrollo del segundo reto de Kaggle
